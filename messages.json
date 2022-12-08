@@ -7,7 +7,10 @@
       "message": "Diese Nachricht wurde über das Internet verschickt."
     },
     {
-      "message": "Diese auch"
+      "message": "Diese Nachricht ebenfalls."
+    },
+    {
+      "message": "Dabei stehen alle Nachrichten offen in einer Json Datei und können so auch editiert werden. Denn sie sind ja nicht lokal gespeichert :-) 🤔"
     }
   ]
 }

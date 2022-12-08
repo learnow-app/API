@@ -1,19 +1,13 @@
 {
   "data": [
     {
-      "message": "Hey! Willkommen in der lernow App 👋. Schön, dass du es zu uns geschafft hast."
+      "message": "Hey! Willkommen in der learnow App 👋. Wir haben unsere Themen in der Klasse 5 aufgestockt.  Besonders in dem Fach Deutsch. Dazugekommensind Substantive und Personalpronomen. Viel Spaß beim lernen. Dein learnow Team"
     },
     {
-      "message": "Diese Nachricht wurde über das Internet verschickt."
+      "message": "Moin, wir haben soeben ein Update veröffentlicht! Neu dazugekommen ist die Chatfunktion, welche ihr neben dem Brainlevel auf der Startseite finden könnt. Dort haben wir die Chanche Ankündigungen oder Changelogs zu veröffentichen."
     },
     {
       "message": "Diese Nachricht ebenfalls."
-    },
-    {
-      "message": "Dabei stehen alle Nachrichten offen in einer Json Datei und können so auch editiert werden. Denn sie sind ja nicht lokal gespeichert :-) 🤔"
-    },
-    {
-      "message": "Boldis sind cool"
     }
   ]
 }

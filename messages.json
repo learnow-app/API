@@ -1,12 +1,15 @@
 {
-  "data": [
-    {
-      "message": "Hey! Willkommen in der learnow App 👋. Dein neuer Begleiter in der Schule. Organisiere dich mit dem digitalen Hausaufgabenheft oder bereite dich perfekt auf deine nächste Arbeit vor. Mit geprüften Videos und dazu passenden Übungsaufgaben. 🧠 Starte jetzt durch mit learnow! ✨",
-      "date": "11.12.2022"
-    },
-    {
-      "message": "Hey, wir haben jetzt das Fach Biologie für die 5. Klasse für euch freigeschaltet 🪴. Dazu müsst ihr jedoch die App updaten. Das Fach kann man aktuell auch ohne Premium nutzten ✨. Viel Spaß. Das learnow Team 💪",
-      "date": "14.12.2022"
-    }
-  ]
+	"data": [{
+			"message": "Hey! Willkommen in der learnow App 👋. Dein neuer Begleiter in der Schule. Organisiere dich mit dem digitalen Hausaufgabenheft oder bereite dich perfekt auf deine nächste Arbeit vor. Mit geprüften Videos und dazu passenden Übungsaufgaben. 🧠 Starte jetzt durch mit learnow! ✨",
+			"date": "11.12.2022"
+		},
+		{
+			"message": "Hey, wir haben jetzt das Fach Biologie für die 5. Klasse für euch freigeschaltet 🪴. Dazu müsst ihr jedoch die App updaten. Das Fach kann man aktuell auch ohne Premium nutzten ✨. Viel Spaß. Das learnow Team 💪",
+			"date": "14.12.2022"
+		},
+		{
+			"message": "T Bricks gute Kanal. Ich empfehle.",
+			"date": "15.12.2022"
+		}
+	]
 }

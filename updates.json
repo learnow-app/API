@@ -1,7 +1,7 @@
 {
-  "updateID": "BETA11",
-  "LatestVersion": "0.8.9",
-  "apkURL": "https://firebasestorage.googleapis.com/v0/b/learnow-a1207.appspot.com/o/Updates%2FBETA11.apk?alt=media&token=312cf599-4a7a-444d-bda0-f3fce5943e06",
-  "title": "learnow Beta 11",
-  "describtion": "Veröffentlichungsdatum: 31.8.23\n\nMeet learnow Beta 11,\neine Version, die viele Neuerungen mit sich bring. In diesem Update haben wir hart daran gearbeitet, learnow noch stabiler und performanter zu machen.\n\nZu den neuen Features gehören unteranderem eine verbesserte Suchfunktion ✅, welche noch besser Themen finden kann. Außerdem wurde ein neues Design für Storys 🖌️eingeführt, welches nun noch besser und einfacher funktioniert. In dieser Version wurden Zahlreiche kritische Fehler behoben, darunter ein Fehler, bei dem es in allen Versionen zufor keinen Account mit E-Mailverifizierung erstellen konnte, außerdem ist nun auch der Learnie-Bug behoben ⚡, beidem die falsche Menge Learnies abgebucht wurden. Gebt bitte euer Feedback zu der Version in den Einstellungen unter Support ab. 🗣️ Viel Spaß mit dem Update."
+  "updateID": "BETA11A",
+  "LatestVersion": "0.8.9a",
+  "apkURL": "https://firebasestorage.googleapis.com/v0/b/learnow-a1207.appspot.com/o/Updates%2FBETA11A.apk?alt=media&token=c349cf8d-3609-4be6-ba5c-4e892d89bf57",
+  "title": "🔥 Hotfix 0.8.9a",
+  "describtion": "Veröffentlichungsdatum: 2.9.23\n\nMit dem Hotfix 0.8.9a werden hoch kritische Sicherheitslücken geschlossen. Dieses Update enthält keine neuen Funktionen. Es ist ein außerplanmäßiges Update, dass kritische Fehler, welche mit der Beta 11 entstanden sind, behoben werden.\n\nAlle Nutzer sind dazu angehalten dieses Update schnellstmöglich zu installieren."
 }

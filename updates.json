@@ -1,7 +1,7 @@
 {
-  "updateID": "BETA11A",
-  "LatestVersion": "0.8.9a",
+  "updateID": "BETA10",
+  "LatestVersion": "0.9.0",
   "apkURL": "https://firebasestorage.googleapis.com/v0/b/learnow-a1207.appspot.com/o/Updates%2FBETA11A.apk?alt=media&token=c349cf8d-3609-4be6-ba5c-4e892d89bf57",
-  "title": "🔥 Hotfix 0.8.9a",
-  "describtion": "Veröffentlichungsdatum: 2.9.23\n\nMit dem Hotfix 0.8.9a werden hoch kritische Sicherheitslücken geschlossen. Dieses Update enthält keine neuen Funktionen. Es ist ein außerplanmäßiges Update, dass kritische Fehler, welche mit der Beta 11 entstanden sind, behebt.\n\nAlle Nutzer sind dazu angehalten dieses Update schnellstmöglich zu installieren."
+  "title": "✨ Beta 10",
+  "describtion": "Veröffentlichungsdatum: 11.9.23\n\nHeute bringen wir learnow weiter voran. Dürfen wir vorstellen: learnow Beta 10. Beta 10 ist vollgepackt mit vielen nützlichen Features, mit denen es noch mehr nützt, mit learnow zu lernen. In dieser Beta erhaltet ihr ein neues Ticketsystem im Support, eine Statusanzeige im Überprüfungsprozess, neue Fragen für den TÜ Trainer und Quizze können nachträglich für alle Learns, festgelegt werden, damit Nutzer noch besser ihr Wissen testen können. Natürlich wurden auch wieder zahlreiche Fehler behoben, darunter, dass man nun auch Bilder im Supportchat hochladen kann, außerdem wird jetzt auch das learnow Logo in Benachrichtigungen angezeigt. Auch Verbesserungen wurden vorgenommen: Im Discovery Bereich werden jetzt nur noch PDFs angezeigt, was für ein besseres Aussehen sorgt, eine E-Mail-Adresse ist jetzt nicht mehr für den Support relevant und zu guter letzt haben wir eine neue Einstellungsseite.\n\nMeldet Fehler bitte unbedingt wieder im Support.\nViel Spaß mit der neuen Version!"
 }

@@ -1,7 +1,7 @@
 {
   "updateID": "BETA8",
   "LatestVersion": "0.9.2",
-  "apkURL": "https://firebasestorage.googleapis.com/v0/b/learnow-a1207.appspot.com/o/Updates%2FBETA8.apk?alt=media&token=342755b8-ca04-4665-b429-60ab4dcb35b9",
+  "apkURL": "https://api-learnow.up.railway.app/public/download-latest-version",
   "title": "⚡ Beta 8",
-  "describtion": "Endlich ist sie da - die Beta 9. 🤩 Vollgepackt mit neuen Funktionen, Verbesserungen und Fehlerbehebungen.\n\nProbiere jetzt die neuen learnow Codes aus! Eine neue, simple Möglichkeit, Learns sowie Profile zu teilen. \n\nFinde mehr über die Beta 8 heraus: https://rb.gy/8b17ac"
+  "describtion": "Bitte beachte, dass wir die Updateserver in der Beta 8 bald deaktivieren werden, sodass keine Updates mehr in der App durchgeführt werden können. Installiere dieses Update möglichst schnell, um nicht betroffen zu sein."
 }
